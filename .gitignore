@@ -1,4 +1,3 @@
 build/
-dist/
 *.pdx/
 .DS_Store
