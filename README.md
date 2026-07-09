@@ -1,5 +1,7 @@
 # Basilevs — Playdate port
 
+> Part of **[plAIdate](https://plaidate.github.io)** — AI-built 1-bit games, ports, and engines for the Playdate.
+
 A 1-bit bullet-hell shmup on the Playdate, ported from
 [**bredlej/basilevs**](https://github.com/bredlej/basilevs) — the original
 game by **bredlej** (a.k.a. geoco), a C++20/raylib project — to C11 on the
